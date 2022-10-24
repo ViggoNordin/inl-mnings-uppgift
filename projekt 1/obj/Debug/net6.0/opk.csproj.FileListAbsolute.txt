@@ -1,0 +1,15 @@
+C:\Users\vino05001\Documents\programering 1\projekt 1\bin\Debug\net6.0\opk.exe
+C:\Users\vino05001\Documents\programering 1\projekt 1\bin\Debug\net6.0\opk.deps.json
+C:\Users\vino05001\Documents\programering 1\projekt 1\bin\Debug\net6.0\opk.runtimeconfig.json
+C:\Users\vino05001\Documents\programering 1\projekt 1\bin\Debug\net6.0\opk.dll
+C:\Users\vino05001\Documents\programering 1\projekt 1\bin\Debug\net6.0\opk.pdb
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.csproj.AssemblyReference.cache
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.AssemblyInfoInputs.cache
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.AssemblyInfo.cs
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.csproj.CoreCompileInputs.cache
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.dll
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\refint\opk.dll
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.pdb
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\opk.genruntimeconfig.cache
+C:\Users\vino05001\Documents\programering 1\projekt 1\obj\Debug\net6.0\ref\opk.dll

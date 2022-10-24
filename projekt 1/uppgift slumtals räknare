@@ -1,0 +1,35 @@
+{
+
+Random rd = new Random();
+int randnum = rd.Next(1,101);
+int antalgis;
+int tal;
+int lägsta = 1;
+int högsta = 101;
+tal=  lägsta + högsta+1;
+ while(tal!= randnum)
+{
+Console.WriteLine("Gissa talet mellan 1 och 100");
+tal = Int32.Parse(Console.ReadLine());
+if(randnum<tal)
+    Console.WriteLine("Lägre");
+ 
+if(randnum>tal)
+     Console.WriteLine("Högre");
+ 
+
+}
+
+  Console.WriteLine("Du hade rätt");
+ 
+}
+
+
+
+
+
+
+
+
+
+}
